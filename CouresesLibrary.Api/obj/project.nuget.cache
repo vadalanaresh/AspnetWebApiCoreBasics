@@ -1,9 +1,11 @@
 {
   "version": 2,
-  "dgSpecHash": "mISo3fKJhK/HqjR7YmEfeBK3kiP/d/pSRCnQisAmv3iu5ewRsGex0rEUcRw7CGgJFZeRhQB3kq3nnrmioAg+MA==",
+  "dgSpecHash": "nIxTDLnnr1naS3XesoJrmTIwDkGdjd/dETo9JYUlab3l+03pY97LS9QN4Hme//iURfsKQ7f5N4s9zTP/5AUnWg==",
   "success": true,
   "projectFilePath": "C:\\Naresh\\Learning\\CouresesLibrary.Api\\CouresesLibrary.Api\\CouresesLibrary.Api.csproj",
   "expectedPackageFiles": [
+    "C:\\Users\\naresh.vadala\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
+    "C:\\Users\\naresh.vadala\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\naresh.vadala\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\naresh.vadala\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",
     "C:\\Users\\naresh.vadala\\.nuget\\packages\\microsoft.aspnetcore.razor.language\\3.1.0\\microsoft.aspnetcore.razor.language.3.1.0.nupkg.sha512",
