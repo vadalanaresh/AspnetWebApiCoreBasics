@@ -18,6 +18,8 @@ namespace CouresesLibrary.Api.Profiles
                     dest => dest.Age,
                     opt => opt.MapFrom(src => src.DateOfBirth.GetAge()
                     ));
+
+            CreateMap<AuthorForCreationDto, Author>();
         }
     }
 }
